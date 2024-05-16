@@ -33,7 +33,8 @@ dependencies:
     sdk: flutter
   get: ^4.6.6
   just_audio: ^0.9.37
-  on_audio_query: ^2.9.0
+  on_audio_query:
+  permission_handler: ^11.3.1
 
 dev_dependencies:
   flutter_lints: ^3.0.0
